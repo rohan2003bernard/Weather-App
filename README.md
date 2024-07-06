@@ -1,19 +1,10 @@
 # weather_app
 
-A new Flutter project.
+Its is a small weather app which tell you the weather detail of a certain city.
 
-## Getting Started
+Choose your emulator and give the command "flutter run".
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enter the City you want see the weather deatailes and hit search button. You will get the details you want and if you want to go to previous menu hit back button.
 
 ![Screenshot 2024-07-07 004827](https://github.com/rohan2003bernard/Weather-App/assets/119723569/b14666ea-0e0c-42cb-8bbd-e78b91830b5b)
 
