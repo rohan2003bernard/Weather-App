@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Screenshot 2024-07-07 004834](https://github.com/rohan2003bernard/Weather-App/assets/119723569/cb415fbe-3629-4cf2-bbda-a1d1ef5fe173)
 
+https://github.com/rohan2003bernard/Weather-App/assets/119723569/01066178-6d16-47d9-8ca8-ace574d98095
 
 
-https://github.com/rohan2003bernard/Weather-App/assets/119723569/dcc31d87-f760-426f-b590-18cac25e3e9c
 
